@@ -22,10 +22,14 @@ fourth_page ->
 
 fifth_page ->
 
-![image](https://github.com/josufunq/flutter2/assets/134363023/9812bc46-5851-4ec0-b0d1-1d972edb9d89)
+
+![image](https://github.com/josufunq/flutter2/assets/134363023/b5d0aca8-94e1-4855-b586-3db6928964aa)
+
 
 
 sixth_page ->
 
-![image](https://github.com/josufunq/flutter2/assets/134363023/47c40c41-7342-4048-a933-b08bcbbff9d0)
+![image](https://github.com/josufunq/flutter2/assets/134363023/da9f08d4-a0ef-4271-9b3a-f5238bdf7b09)
+
+
 
