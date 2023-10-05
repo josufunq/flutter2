@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_beginning/page/fourth_page.dart';
+import 'package:flutter2/page/fourth_page.dart';
 
 class ButtonText extends StatelessWidget {
   final String txt;
