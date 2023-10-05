@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_beginning/widget/picture_main.dart';
-import 'package:flutter_beginning/widget/picture_shape.dart';
-import 'package:flutter_beginning/widget/button.dart';
-import 'package:flutter_beginning/widget/button_text.dart';
-import 'package:flutter_beginning/widget/text_place.dart';
-import 'package:flutter_beginning/page/third_page.dart';
-import 'package:flutter_beginning/page/first_page.dart';
+import 'package:flutter2/widget/picture_main.dart';
+import 'package:flutter2/widget/picture_shape.dart';
+import 'package:flutter2/widget/button.dart';
+import 'package:flutter2/widget/button_text.dart';
+import 'package:flutter2/widget/text_place.dart';
+import 'package:flutter2/page/third_page.dart';
+import 'package:flutter2/page/first_page.dart';
 
 class SecondScreen extends StatelessWidget {
   final String butSkip = "Пропустить";
