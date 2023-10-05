@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_beginning/widget/button.dart';
-import 'package:flutter_beginning/widget/text_place.dart';
-import 'package:flutter_beginning/widget/field.dart';
-import 'package:flutter_beginning/page/sixth_page.dart';
+import 'package:flutter2/widget/button.dart';
+import 'package:flutter2/widget/text_place.dart';
+import 'package:flutter2/widget/field.dart';
+import 'package:flutter2/page/sixth_page.dart';
 
 
 class FifthScreen extends StatelessWidget {
