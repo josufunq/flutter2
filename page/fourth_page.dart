@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter2/widget/button.dart';
+import 'package:flutter2/widget/buttons.dart';
 import 'package:flutter2/page/first_page.dart';
-import 'package:flutter2/widget/text_place.dart';
-import 'package:flutter2/widget/field.dart';
+import 'package:flutter2/widget/t_p.dart';
+import 'package:flutter2/widget/fs.dart';
 import 'package:flutter2/page/fifth.dart';
 
 
