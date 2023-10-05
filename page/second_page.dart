@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter2/widget/picture_main.dart';
-import 'package:flutter2/widget/picture_shape.dart';
-import 'package:flutter2/widget/button.dart';
-import 'package:flutter2/widget/button_text.dart';
-import 'package:flutter2/widget/text_place.dart';
+import 'package:flutter2/widget/p_m.dart';
+import 'package:flutter2/widget/p_s.dart';
+import 'package:flutter2/widget/buttons.dart';
+import 'package:flutter2/widget/button_txt.dart';
+import 'package:flutter2/widget/t_p.dart';
 import 'package:flutter2/page/third_page.dart';
 import 'package:flutter2/page/first_page.dart';
 
