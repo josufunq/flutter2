@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_beginning/widget/back.dart';
-import 'package:flutter_beginning/page/fifth.dart';
-import 'package:flutter_beginning/widget/code.dart';
-import 'package:flutter_beginning/widget/text_place.dart';
-import 'package:flutter_beginning/widget/timer_text.dart';
+import 'package:flutter2/widget/back.dart';
+import 'package:flutter2/page/fifth.dart';
+import 'package:flutter2/widget/code.dart';
+import 'package:flutter2/widget/text_place.dart';
+import 'package:flutter2/widget/timer_text.dart';
 
 class SixthScreen extends StatelessWidget {
   
